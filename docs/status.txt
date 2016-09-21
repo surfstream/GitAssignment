@@ -1,1 +1,31 @@
-//Include the output of git status here
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   status.txt
+	modified:   ../src/edu/fsu/cs/cen5035/BasicWeapon.java
+	modified:   ../src/edu/fsu/cs/cen5035/RoleGame.java
+	modified:   ../src/edu/fsu/cs/cen5035/Sword.java
+	modified:   ../src/edu/fsu/cs/cen5035/Weapon.java
+	modified:   ../src/edu/fsu/cs/cen5035/WeaponFactory.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../README.md~
+	../src/edu/fsu/cs/cen5035/Arrow.java
+	../src/edu/fsu/cs/cen5035/Arrow.java~
+	../src/edu/fsu/cs/cen5035/Axe.java
+	../src/edu/fsu/cs/cen5035/BasicWeapon.java~
+	../src/edu/fsu/cs/cen5035/MagicStaff.java
+	../src/edu/fsu/cs/cen5035/MagicStaff.java~
+	../src/edu/fsu/cs/cen5035/RoleGame.java~
+	../src/edu/fsu/cs/cen5035/Sword.java~
+	../src/edu/fsu/cs/cen5035/Weapon.java~
+	../src/edu/fsu/cs/cen5035/WeaponFactory.java~
+
+no changes added to commit (use "git add" and/or "git commit -a")
