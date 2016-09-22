@@ -1,4 +1,4 @@
-package edu.fsu.cs.cen5035;
+//package edu.fsu.cs.cen5035;
 
 /**
  *
@@ -10,12 +10,12 @@ public class Sword extends BasicWeapon implements Weapon {
         super(50);
     }
 
-    @Override
+   // @Override
     public int hit() {
         return DAMAGE;
     }
 
-    @Override
+    //@Override
     public int hit(int armor) {
         int damage = DAMAGE - armor;
         if (damage < 0) {
