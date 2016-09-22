@@ -1,0 +1,19 @@
+9
+  (a) Total of 9 commits
+
+  (b) SEP 15,2016, 10:29:34
+  
+  (c) BasicWeapon.java was modified 1time
+      Sword.java was modified 2times
+      RoleGame.java was modified 1time
+      Weapon.java was modified 1time
+      WeaponFactory.java was modified 1time   
+ 
+  (d) Git log keeps a snapshot of all the commits done in the branch, with their commit code,commit message,and the author information.
+      Git status merely gives the current status of the branch as in which files are changed,which files are staged of committing.
+  
+  (e) git log --follow RoleGame.java
+  
+  (f) git log --all --grep='file'
+  
+  (g) git log --since="2016-09-01" --until="2016-09-16" --author="Alice"
